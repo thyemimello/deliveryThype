@@ -1,0 +1,2 @@
+- [Data seed lifecycle](data-seed-lifecycle.md) — products/categories are wiped & reseeded on every startup; only seed-array or separate idempotent tables (e.g. settings) persist admin edits.
+- [WhatsApp messaging](whatsapp-messaging.md) — wa.me click-to-chat only; always prepend `55`; images can't attach (host + link-preview); upload route has its own raised JSON body limit.
